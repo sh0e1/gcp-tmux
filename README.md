@@ -16,10 +16,8 @@ git clone https://github.com/sh0e1/gcp-tmux.git ~/.tmux/gcp-tmux
 
 Add the following line to your ~/.tmux.conf
 
-
 ```
 set -g status-right "#(/bin/bash ~/.tmux/gcp-tmux/gcp.tmux)"
-
 ```
 
 ### tmp

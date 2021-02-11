@@ -20,7 +20,7 @@ Add the following line to your ~/.tmux.conf
 set -g status-right "#(/bin/bash ~/.tmux/gcp-tmux/gcp.tmux)"
 ```
 
-### tmp
+### tpm
 
 It can be installed using the [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 
